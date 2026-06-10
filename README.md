@@ -9,7 +9,7 @@ A collection of architectures, sample code snippets, and production examples dem
 ### [WhumbleZone Real-Time Architecture](https://whumblezone.com)
 > **A live production deployment utilizing optimized state changes for collaborative watch parties and shared workspaces.**
 
-![WhumbleZone Architecture Preview](https://whumblezone.com/og-image.png)
+![WhumbleZone Architecture Preview](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)
 
 ### 🔬 Technical Implementation Highlights:
 * **Zero-Download Document Engine:** Renders localized documents dynamically on the client-side while distributing a lean canvas drawing vector coordinate stream ($X, Y \rightarrow \text{Canvas}$).
